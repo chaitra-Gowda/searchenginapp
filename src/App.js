@@ -23,6 +23,12 @@ function App()
                        Even if I wanted to type one thousand characters, I have to go to bed now anyway, so I simply don't have the time. 
                       I mean, I could just type a bunch of random letters or hold down one key, but that would be no fun at all.
                       </p>
+                     
+                  
+                      {/* <textarea placeholder="500 character" className='para'>
+                      
+                      </textarea> */}
+
                     </div>
 
                     <button> SUBMIT </button>

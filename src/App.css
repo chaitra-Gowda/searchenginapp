@@ -36,6 +36,16 @@ html, body, #root{
   padding: 20px;
 }
 
+.para{
+  width: 95%;
+  height: 95%;
+  margin-top: 1%;
+  padding: 0;
+  font-size: medium;
+  max-width: 95%;
+  max-height: 95%;
+}
+
 .first_div button{
   width: 40%;
   height: 7%;
